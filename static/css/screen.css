@@ -1,0 +1,12 @@
+header{
+	height: 60px;
+}
+*[ng-click]{
+    cursor:pointer;
+}
+
+header img.profile{
+	height: 30px;
+	margin: -15px 0px;
+	border-radius: 3px;
+}
